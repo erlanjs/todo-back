@@ -1,0 +1,30 @@
+body {
+  background: #e7e96a;
+}
+
+tr:nth-child(even) {
+  background: gray;
+}
+
+th {
+  border: 2px solid black;
+}
+
+table {
+  width: 700px;
+}
+
+td {
+  padding: 10px;
+  border: 2px solid red;
+}
+
+.form button {
+  background: blue;
+  color: white;
+  padding: 10px;
+}
+
+.form input {
+  padding: 10px;
+}
